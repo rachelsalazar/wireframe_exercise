@@ -1,0 +1,32 @@
+html, body {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  background-color: #444444;
+  height: 90px;
+  border: 1px solid black;
+  display: inline-block;
+  width: 100%;
+}
+
+#nav-img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+ul {
+  display: inline-block;
+}
+
+li {
+  display: inline-block;
+}
+
+.hero-img {
+
+}
