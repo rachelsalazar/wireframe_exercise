@@ -101,6 +101,13 @@ button {
   width: 150px;
   margin-bottom: 30px;
   margin-top: 5px;
+  border-radius: 3px;
+  transition: 400ms all;
+}
+
+button:hover {
+  background-color: #555555;
+  font-size: 15px;
 }
 
 footer {
